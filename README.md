@@ -111,7 +111,7 @@ It evaluates their performance across various types of natural language question
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Python Version
 Ensure Python ≥ 3.8 is installed.
